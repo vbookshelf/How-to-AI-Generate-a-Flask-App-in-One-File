@@ -122,6 +122,3 @@ if __name__ == "__main__":
 ## How to run this code
 In progress...
 
-## Example App
-A desktop, browser based UI to chat with Ollama models.<br>
-In progress...
