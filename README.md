@@ -1,5 +1,10 @@
 # One Page Desktop Flask Web App Template
-A simple example that shows how to create a one-page desktop app the combines a nice UI running in the browser with the power of a Python backend. All running locally.
+A simple example that shows how to create a one-page desktop app the combines a nice UI running in the browser with the power of a Python backend.
+
+- All the beauty of HTML, CSS and JS
+- All the power of Python and its packages
+- All running locally
+- Easy to modify by vibe coding because all the code is on one page
 
 Project in progress...
 
@@ -8,14 +13,14 @@ Project in progress...
 
 <hr>
 
-### Simple example
+### Simple example code
 
 <br>
 
-### Browser based user interface
+### UI: Browser based user interface
 <img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
 
-### Code running locally
+### Code: Python, HTML, CSS and JS on one page
 
 ```
 
