@@ -6,7 +6,8 @@ A simple example that shows how to create a one-page desktop app the combines a 
 - All running locally
 - Easy to modify by vibe coding because all the code is on one page
 
-This approach is also useful for privacy-sensitive applications or for demonstrations where a full-scale web deployment isn't necessary.
+This approach is also useful for privacy-sensitive applications or for demonstrations where a full-scale web deployment isn't necessary.<br>
+Example: A doctor creates an app that uses an Ollama model to extract patient data from written records. For privacy reasons this app would need to run locally. Also, it would need a UI to ingest the written records and a Python backend to pre-process the data and to run the model.
 
 Project in progress...
 
