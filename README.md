@@ -1,5 +1,5 @@
 # One Page Desktop Flask Web App Template
-A simple example that shows how to create a one-page desktop app the combines a nice UI running in the browser with the power of a Python backend. This approach is ideal for those who are using Gemini, ChatGPT and Claude to create digital tools/small-apps to solve problems.
+A simple example that shows how to create a one-page desktop app the combines a nice UI running in the browser with the power of a Python backend. This approach is ideal for those who are using Gemini, ChatGPT and Claude to create digital tools/small-apps that need to run locally.
 
 - All the beauty of HTML, CSS and JS
 - All the power of Python and its packages
@@ -14,8 +14,6 @@ Project in progress...
 <hr>
 
 ### Simple example code
-
-<br>
 
 ### UI: Browser based user interface
 <img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
