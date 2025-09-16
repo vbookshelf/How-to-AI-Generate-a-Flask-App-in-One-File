@@ -6,12 +6,12 @@ Project in progress...
 <br>
 <br>
 
-## Template
+<hr>
 
-### UI
+### Browser based user interface
 <img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
 
-### Code
+### Code running locally
 
 ```
 
@@ -107,6 +107,8 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 ```
+
+<hr>
 
 ## How to run this code
 In progress...
