@@ -8,7 +8,8 @@ A simple example that shows how to create a one-page desktop app the combines a 
 
 This approach is also useful for privacy-sensitive applications or for demonstrations where a full-scale web deployment isn't necessary.
 
-Example: A doctor wants to create an app that uses an Ollama model to extract patient data from written records. For privacy reasons this app would need to run locally. Also, it would need a UI to ingest the written records and a Python backend to pre-process the data and to run the model. 
+### Example 
+A doctor wants to create an app that uses an Ollama model to extract patient data from written records. For privacy reasons this app would need to run locally. Also, it would need a UI to ingest the written records and a Python backend to pre-process the data and to run the model. 
 
 To create this app the doctor would simply need to describe it to an LLM like ChatGPT or Gemini. The doctor would also need to give the one-page code, shown below, to the LLM as an example of the approach that should be used. The LLM would then generate a one-page flask app. The doctor would then run that app like a normal Python file (% uv run python app.py) - no need for Flask-specific commands.
 
