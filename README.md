@@ -6,6 +6,8 @@ A simple example that shows how to create a one-page desktop app the combines a 
 - All running locally
 - Easy to modify by vibe coding because all the code is on one page
 
+This approach is also useful for privacy-sensitive applications or for demonstrations where a full-scale web deployment isn't necessary.
+
 Project in progress...
 
 <br>
