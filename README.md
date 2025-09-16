@@ -8,6 +8,10 @@ Project in progress...
 
 <hr>
 
+### Simple example
+
+<br>
+
 ### Browser based user interface
 <img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
 
