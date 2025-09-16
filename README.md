@@ -6,6 +6,13 @@ Project in progress...
 <br>
 <br>
 
+## Template
+
+### UI
+<img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
+
+### Code
+
 ```
 
 from flask import Flask, render_template_string, request, jsonify
