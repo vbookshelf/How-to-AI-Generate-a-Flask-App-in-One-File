@@ -172,4 +172,4 @@ There’s no need to type the % symbol.
 
 ## Conclusion
 
-This project empowers people, who are not coders, to build their own digital tools. In a world that seems driven by cloud based solutions, I hope that this simple local approach will lead to more innovation. 
+This project empowers people, who are not coders, to build their own digital tools. Now anyone can create powerful digital tools without getting bogged down in complex coding workflows. In a world that seems driven by cloud based solutions, I hope that this simple local approach will lead to more innovation. 
