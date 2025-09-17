@@ -30,7 +30,7 @@ To create this app the doctor would simply need to describe it to an LLM like Ch
 ### UI: Browser based user interface
 <img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
 
-### Code: Python, HTML, CSS and JS on one page
+### Code: Python, HTML, CSS and JS in one file (app.py)
 
 ```
 
