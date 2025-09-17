@@ -164,6 +164,7 @@ There’s no need to type the % symbol.
 
 9. To stop the app type ctrl C in the console.
 ```
+<br>
 
 ## Notes
 - I had good success using Google Gemini 2.5 Pro and GPT-5 when creating the one page app.
