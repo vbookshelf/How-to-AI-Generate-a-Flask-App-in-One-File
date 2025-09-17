@@ -198,4 +198,4 @@ You should now have a working chat app running in your browser. Note the the res
 
 ## Conclusion
 
-This project empowers people, who are not coders, to build their own custom tools. Now anyone can use AI to quickly create digital solutions without getting bogged down in complex coding workflows. 
+This project empowers people, who are not coders, to build their own custom tools and run them offline. Now anyone can use AI to quickly create digital solutions without getting bogged down in complex coding workflows. 
