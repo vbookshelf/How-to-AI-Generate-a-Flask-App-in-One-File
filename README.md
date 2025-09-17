@@ -1,8 +1,8 @@
-# One-Page Flask Web App Template
+# One-File Flask Web App Template
 
 Use this template plus AI to quickly build the tools you need. Create simple, local and privacy-focused web apps without the complexity of a multi-file project structure. Python, HTML, CSS and JS code are all in one python file.
 
-This project shows how to create a one-page flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who want to use Gemini, ChatGPT and Claude to create digital tools that run locally.
+This project shows how to prompt AI models to create a flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who want to use Gemini, ChatGPT and Claude to create digital tools that run locally.
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
