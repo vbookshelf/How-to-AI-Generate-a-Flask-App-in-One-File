@@ -1,4 +1,4 @@
-# One Page Flask Web App Template
+# One-Page Flask Web App Template
 
 Create a simple, local, and privacy-focused web app without the complexity of a multi-file project structure.
 
