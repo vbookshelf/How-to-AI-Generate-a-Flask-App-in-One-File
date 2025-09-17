@@ -1,4 +1,4 @@
-# One-File Flask Web App Prompt
+# How to use AI to generate a complete Flask Web App in just One File
 
 Use a code example plus AI to quickly build flask apps that run locally. Create privacy-focused web apps without the complexity of a multi-file project structure. Python, HTML, CSS and JS code are all in one python file.
 
