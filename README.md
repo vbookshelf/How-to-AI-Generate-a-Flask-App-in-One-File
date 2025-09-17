@@ -126,5 +126,36 @@ if __name__ == "__main__":
 <br>
 
 ## How to run this code
-In progress...
+Please ensure that you have UV installed. UV is a Python package manager that's a faster alternative to Pip.<br>
+
+```
+These are the steps for Mac.
+
+1. Download the project folder, unzip it and place it on your desktop.
+In this repo the project folder is named: one-page-flask-app
+Then open your command line console.
+The instructions that follow should be typed on the command line. 
+There’s no need to type the % symbol.
+
+2. % cd Desktop
+
+3. % cd one-page-flask-app
+
+4. Initialize a python 3.10 environment inside the folder<br>
+(This step only needs to be done the first time)
+% uv init --python 3.10
+
+5. Install flask<br>
+(This step only needs to be done the first time)
+% uv add flask
+
+6. Launch the app
+% uv run python app.py
+
+7. Copy the url that gets printed out (e.g. http://127.0.0.1:5000/)
+
+8. Paste the url into your chrome browser and press Enter. The app will launch in the browser. 
+
+9. To stop the app type ctrl C in the console.
+```
 
