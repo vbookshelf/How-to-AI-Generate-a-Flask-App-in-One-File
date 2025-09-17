@@ -172,4 +172,4 @@ There’s no need to type the % symbol.
 
 ## Conclusion
 
-What kind of 
+This project empowers people, who are not coders, to build their own digital tools. In a world that seems driven by cloud based solutions, I hope that simple and free local approaches like this can lead to more innovation. 
