@@ -2,7 +2,7 @@
 
 Create a simple, local, and privacy-focused web app without the complexity of a multi-file project structure. Use this template plus AI to quickly build the tools you need.
 
-This project shows how to create a one-page flask app the combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who are using Gemini, ChatGPT and Claude to create digital tools/small-apps that need to run locally.
+This project shows how to create a one-page flask app the combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who want to use Gemini, ChatGPT and Claude to create digital tools that run locally.
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
@@ -169,3 +169,7 @@ There’s no need to type the % symbol.
 ## Notes
 - I had good success using Google Gemini 2.5 Pro and GPT-5 when creating the one page app.
 - I tried Firebase Studio but I couldn't get it to create a simple one page app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers.
+
+## Conclusion
+
+What kind of 
