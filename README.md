@@ -25,7 +25,7 @@ To create this app the doctor would simply need to describe it to an LLM like Ch
 
 <hr>
 
-### Simple example code
+### The example code
 
 ### UI: Browser based user interface
 <img src="https://github.com/vbookshelf/One-Page-Desktop-Flask-Web-App-Template/blob/main/images/example-app.png" alt="Simple chat app running in web browser" height="400">
@@ -131,7 +131,7 @@ if __name__ == "__main__":
 
 <br>
 
-## How to run this code
+## How to run the example code
 Please ensure that you have UV installed. UV is a Python package manager that's a faster alternative to Pip.<br>
 
 ```
