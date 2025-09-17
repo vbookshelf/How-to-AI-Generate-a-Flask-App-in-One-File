@@ -6,7 +6,7 @@ This project shows how to create a one-page flask app the combines a nice intera
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
-A user can provide the template as a starting point and ask an LLM to generate the rest of the code for a specific task, such as a local chat application or a data extraction tool. This makes it easy for non-programmers to create their own custom tools that need both a frontend and a backend.
+A user can provide this template as a starting point (a pattern to follow) and ask an LLM to generate the rest of the code for a specific task, such as a local chat application or a data extraction tool. This makes it easy for non-programmers to create their own custom tools that need both a frontend and a backend.
 
 Features:
 - All the beauty of HTML, CSS and JS
