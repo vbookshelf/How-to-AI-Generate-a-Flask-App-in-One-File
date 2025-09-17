@@ -160,3 +160,7 @@ There’s no need to type the % symbol.
 9. To stop the app type ctrl C in the console.
 ```
 
+## Notes
+- I had good success using Google Gemini 2.5 Pro and GPT-5 when creating the one page app.
+- Gemini 2.5 Flash can be frustrating when using it to generate code.
+- I tried Firebase Studio but I couldn't get it to create a simple one page app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers. It uses React even when you tell it not to use React.
