@@ -18,7 +18,7 @@ Features:
 ### Example 
 A doctor wants to create an app that uses an Ollama model to extract patient data from written records. For privacy reasons this app would need to run locally. Also, it would need a UI to ingest the written records and a Python backend to pre-process the data and to run the model. 
 
-To create this app the doctor would simply need to describe it to an LLM like ChatGPT or Gemini. The doctor would also need to give the one-page code, shown below, to the LLM as an example of the architecture that should be used. The LLM would then generate a one-page flask app. The doctor would then run that app like a normal Python file (% uv run python app.py) - no need for Flask-specific commands.
+To create this app the doctor would simply need to describe it to an LLM like ChatGPT or Gemini. The doctor would also need to give the code, shown below, to the LLM as an example of the architecture that should be used. The LLM would then generate a flask app in one file. The doctor would then run that app like a normal Python file (% uv run python app.py) - no need for Flask-specific commands.
 
 <br>
 <br>
@@ -168,9 +168,9 @@ There’s no need to type the % symbol.
 
 ## Test the idea
 
-To test this idea let's build a chat interface that we can use to chat with an Ollama model locally.
+To test this idea let's use Google Gemini to build a chat interface that we can use to chat with an Ollama model locally.
 
-Please enter the prompt below into Google Gemini: https://gemini.google.com (The gemini flash model worked fine during my test.)<br>
+Please enter the prompt below into Gemini: https://gemini.google.com (The gemini flash model worked fine during my test.)<br>
 Remember to select "Canvas." Attach the app.py file from this repo to the prompt as an example for the LLM to follow. You'll need to have Ollama already installed. Also, you'll need to have already downloaded the gemma3:4b ollama model.
 
 Prompt:
