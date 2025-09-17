@@ -141,11 +141,11 @@ There’s no need to type the % symbol.
 
 3. % cd one-page-flask-app
 
-4. Initialize a python 3.10 environment inside the folder<br>
+4. Initialize a python 3.10 environment inside the folder
 (This step only needs to be done the first time)
 % uv init --python 3.10
 
-5. Install flask<br>
+5. Install flask
 (This step only needs to be done the first time)
 % uv add flask
 
