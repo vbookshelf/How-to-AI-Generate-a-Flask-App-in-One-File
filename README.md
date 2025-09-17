@@ -6,14 +6,14 @@ This project shows how to create a one-page app the combines a nice UI running i
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
+A user can provide the template as a starting point and ask an LLM to generate the rest of the code for a specific task, such as a local chat application or a data extraction tool. This makes it easy for non-programmers to create their own custom tools that need both a frontend and a backend.
+
 Features:
 - All the beauty of HTML, CSS and JS
 - All the power of Python and its packages
 - All running locally
 - No complicated project folder structure
 - Easy to modify by vibe coding because all the code is on one page
-
-This approach is also useful for privacy-sensitive applications or for demonstrations where a full-scale web deployment isn't necessary.
 
 ### Example 
 A doctor wants to create an app that uses an Ollama model to extract patient data from written records. For privacy reasons this app would need to run locally. Also, it would need a UI to ingest the written records and a Python backend to pre-process the data and to run the model. 
@@ -160,12 +160,11 @@ There’s no need to type the % symbol.
 
 7. Copy the url that gets printed out (e.g. http://127.0.0.1:5000/)
 
-8. Paste the url into your chrome browser and press Enter. The app will launch in the browser. 
+8. Paste the url into your web browser and press Enter. The app will launch in the browser. 
 
 9. To stop the app type ctrl C in the console.
 ```
 
 ## Notes
 - I had good success using Google Gemini 2.5 Pro and GPT-5 when creating the one page app.
-- Gemini 2.5 Flash can be frustrating when using it to generate code.
-- I tried Firebase Studio but I couldn't get it to create a simple one page app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers. It uses React even when you tell it not to use React.
+- I tried Firebase Studio but I couldn't get it to create a simple one page app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers.
