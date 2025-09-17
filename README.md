@@ -1,12 +1,12 @@
-# One-File Flask Web App Template
+# One-File Flask Web App Prompt Guide
 
-Use this template plus AI to quickly build the tools you need. Create simple, local and privacy-focused web apps without the complexity of a multi-file project structure. Python, HTML, CSS and JS code are all in one python file.
+Use a code example plus AI to quickly build flask apps that run locally. Create privacy-focused web apps without the complexity of a multi-file project structure. Python, HTML, CSS and JS code are all in one python file.
 
-This project shows how to prompt AI models to create a flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who want to use Gemini, ChatGPT and Claude to create digital tools that run locally.
+This project shows how to prompt AI models to create a flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who want to use Gemini, ChatGPT and Claude to create digital tools that run locally, without an internet connection.
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
-A user can provide this template as a starting point (a pattern to follow) and ask an LLM to generate the rest of the code for a specific task, such as a local chat application or a data extraction tool. This makes it easy for non-programmers to create custom tools that need both a frontend and a backend.
+The user provides a code example as a pattern to follow and then asks an LLM to generate the code for a specific task, such as a local chat application or a data extraction tool. This prompt strategy makes it easy for non-programmers to create custom tools that need both a frontend and a backend.
 
 Features:
 - All the beauty of HTML, CSS and JS
