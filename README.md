@@ -166,7 +166,7 @@ There’s no need to type the % symbol.
 ```
 <br>
 
-### Test the idea
+## Test the idea
 
 To test this idea let's build a chat interface that we can use to chat with an Ollama model locally.
 
