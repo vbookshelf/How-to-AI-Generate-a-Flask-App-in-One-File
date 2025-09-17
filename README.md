@@ -177,6 +177,7 @@ Prompt:
 
 *I want to create a chat app that I can run locally. I want to chat with the gemma3:4b Ollama model. I have already downloaded the model. Please use the design approach shown in the attached example where all the code is in one file. Please use the Ollama Python package and not the Ollama API.*
 
+<br>
 
 - Gemini will generate the code. 
 - Copy the code and paste the code into a python file. 
