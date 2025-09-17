@@ -166,6 +166,29 @@ There’s no need to type the % symbol.
 ```
 <br>
 
+### Test the idea
+
+To test this idea let's build a chat interface that we can use to chat with an Ollama model locally.
+
+Please enter the prompt below into Google Gemini: https://gemini.google.com (The gemini flash model worked fine during my test.)<br>
+Remember to select "Canvas." Attach the app.py file from this repo to the prompt as an example for the LLM to follow. You'll need to have Ollama already installed. Also, you'll need to have already downloaded the gemma3:4b ollama model.
+
+Prompt:
+
+*I want to create a chat app that I can run locally. I want to chat with the gemma3:4b Ollama model. I have already downloaded the model. Please use the design approach shown in the attached example where all the code is in one file. Please use the Ollama Python package and not the Ollama API.*
+
+
+- Gemini will generate the code. 
+- Copy the code and paste the code into a python file. 
+- Name the file ```app.py```
+- Put the file into the ```one-page-flask-app``` project folder.
+
+Now follow the steps shown above to run the code. Note that you will get an error message in the console saying Ollama is not installed.<br>
+Install Ollama by typing the following in the console: ```uv add ollama```
+
+You should now have a working chat app running in your browser. Note the the responses may be slow depending on how fast your computer is. Therefore, during the chat, allow some time for the model to respond.
+<br>
+
 ## Notes
 - I had good success using Google Gemini 2.5 Pro and GPT-5 when creating a one page app.
 - I tried Firebase Studio but I couldn't get it to create a simple one page app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers.
