@@ -184,7 +184,7 @@ Prompt:
 - Put the file into the ```one-page-flask-app``` project folder.
 
 Now follow the steps shown above to run the code. Note that you will get an error message in the console saying Ollama is not installed.<br>
-Install Ollama by typing the following in the console: ```uv add ollama```
+Install the ollama python package by typing the following in the console: ```uv add ollama```
 
 You should now have a working chat app running in your browser. Note the the responses may be slow depending on how fast your computer is. Therefore, during the chat, allow some time for the model to respond.
 <br>
