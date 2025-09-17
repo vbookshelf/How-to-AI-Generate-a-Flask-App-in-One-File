@@ -193,9 +193,10 @@ You should now have a working chat app running in your browser. Note the the res
 <br>
 
 ## Notes
+
 - I had good success using Google Gemini 2.5 Pro and GPT-5 when creating a one-file app.
 - I tried Firebase Studio but I couldn't get it to create a simple one-file app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers.
 
 ## Conclusion
 
-This project empowers people, who are not coders, to build their own custom tools and run them offline. Now anyone can use AI to quickly create digital solutions without getting bogged down in complex coding workflows. 
+Using this approach, anyone can build their own custom digital tools and run them offline.
