@@ -2,7 +2,7 @@
 
 Create a simple, local, and privacy-focused web app without the complexity of a multi-file project structure.
 
-This project shows how to create a one-page app the combines a nice UI running in the browser with the power of a Python backend. This approach is ideal for those who are using Gemini, ChatGPT and Claude to create digital tools/small-apps that need to run locally.
+This project shows how to create a small, locally-hosted digital application the combines a nice UI running in the browser with the power of a Python backend. This approach is ideal for those who are using Gemini, ChatGPT and Claude to create digital tools/small-apps that need to run locally.
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
