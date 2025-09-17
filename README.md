@@ -167,7 +167,7 @@ There’s no need to type the % symbol.
 <br>
 
 ## Notes
-- I had good success using Google Gemini 2.5 Pro and GPT-5 when creating the one page app.
+- I had good success using Google Gemini 2.5 Pro and GPT-5 when creating a one-page app.
 - I tried Firebase Studio but I couldn't get it to create a simple one page app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers.
 
 ## Conclusion
