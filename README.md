@@ -200,3 +200,6 @@ You should now have a working chat app running in your browser. Note the the res
 ## Conclusion
 
 Using this approach, anyone can build their own custom digital tools and run them offline.
+
+<br>
+<br>
