@@ -10,7 +10,7 @@ This project shows how to prompt AI models to create a flask app that combines a
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
-The user provides a code example as a pattern to follow and then asks an LLM to generate the code for the app. The user then copies this code and pastes into into a python file. Then the user runs the python file on their computer by typing a command in the console. When the file is running the app can be accessed from a web browser. This workflow makes it easy for non-programmers to create custom tools that need both a frontend and a backend.
+The user provides a code example as a pattern to follow and then asks an LLM to generate the code for the app. The user then copies this code and pastes it into into a python file. Then the user runs the python file on their computer by typing a command in the console. When the file is running the app can be accessed from a web browser. This workflow makes it easy for non-programmers to create custom tools that need both a frontend and a backend.
 
 Features:
 - All the beauty of HTML, CSS and JS
