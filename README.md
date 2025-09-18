@@ -2,7 +2,7 @@
 
 Use a code example plus AI to quickly build flask apps that run locally. Create privacy-focused web apps without the complexity of a multi-file project structure. Python, HTML, CSS and JS code are all in one python file.
 
-This project shows how to prompt AI models to create a flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for those who want to use Gemini, ChatGPT and Claude to create digital tools that run locally, without an internet connection.
+This project shows how to prompt AI models to create a flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for domain experts who want to use Gemini, ChatGPT and Claude to create digital tools that run locally, without an internet connection.
 
 <img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
 
