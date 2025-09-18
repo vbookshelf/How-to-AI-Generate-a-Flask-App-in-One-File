@@ -1,8 +1,8 @@
 # How to use AI to generate a complete Flask Web App in just One File
 
-YouTube Video:<br>
-How to use AI to Generate a Single-File Flask Web App that Runs Locally<br>
-https://youtu.be/MSDjeUhunGA?si=TOZVgNdC5VQ0ff_8
+> YouTube Video:<br>
+> How to use AI to Generate a Single-File Flask Web App that Runs Locally<br>
+> https://youtu.be/MSDjeUhunGA?si=TOZVgNdC5VQ0ff_8
 
 Use a code example plus AI to quickly build flask apps that run locally. Create privacy-focused web apps without the complexity of a multi-file project structure. Python, HTML, CSS and JS code are all in one python file.
 
@@ -177,9 +177,9 @@ To test this idea let's use Google Gemini to build a chat interface that we can 
 Please enter the prompt below into Gemini: https://gemini.google.com (The gemini flash model worked fine during my test.)<br>
 Remember to select "Canvas." Attach the app.py file from this repo to the prompt as an example for the LLM to follow. You'll need to have Ollama already installed. Also, you'll need to have already downloaded the gemma3:4b ollama model.
 
-Prompt:
+> Prompt:
 
-*I want to create a chat app that I can run locally. I want to chat with the gemma3:4b Ollama model. I have already downloaded the model. Please use the design approach shown in the attached example where all the code is in one file. Please use the Ollama Python package and not the Ollama API.*
+> *I want to create a chat app that I can run locally. I want to chat with the gemma3:4b Ollama model. I have already downloaded the model. Please use the design approach shown in the attached example where all the code is in one file. Please use the Ollama Python package and not the Ollama API.*
 
 <br>
 
