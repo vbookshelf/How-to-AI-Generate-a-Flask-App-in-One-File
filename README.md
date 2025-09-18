@@ -202,7 +202,7 @@ You should now have a working chat app running in your browser. Note the the res
 
 - I had good success using Google Gemini 2.5 Pro and GPT-5 when creating a one-file app.
 - I tried Firebase Studio but I couldn't get it to create a simple one-file app that could run locally. It seems that this product is geared towards creating projects with an architecture that makes them easy to auto deploy on Google servers.
-- This single-file approach can also be used at hackathons to build fast prototypes.
+- This single-file approach can also be used at hackathons - quickly build prototypes and then iterate fast.
 
 ## Conclusion
 
