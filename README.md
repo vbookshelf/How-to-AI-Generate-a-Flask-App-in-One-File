@@ -10,7 +10,7 @@ Use a code example plus AI to quickly build flask apps that run locally. Create 
 
 This project shows how to prompt AI models to create a flask app that combines a nice interactive UI running in the browser with the power of a Python backend. This approach is ideal for domain experts who want to use Gemini, ChatGPT and Claude to create digital tools/small-apps that run locally, without an internet connection.
 
-<img src="https://github.com/vbookshelf/One-Page-Flask-Web-App-Template/blob/main/images/one-page.png" alt="Programmer holding up a page" height="350">
+<img src="https://github.com/vbookshelf/Single-File-Flask-Web-App/blob/main/images/image2.png" alt="Doctor working on a laptop" height="350">
 
 The user provides a code example as a pattern to follow and then asks an LLM to generate the code for the app. The user then copies this code and pastes it into into a python file. Then the user runs the python file on their computer by typing a command in the console. When the file is running the app can be accessed from a web browser. This workflow makes it easy for non-programmers to create custom tools that need both a frontend and a backend.
 
