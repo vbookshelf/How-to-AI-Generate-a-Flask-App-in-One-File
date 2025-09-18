@@ -13,7 +13,7 @@ Features:
 - All the power of Python and its packages
 - All running locally
 - No complicated project folder structure
-- Easy to modify by vibe coding because all the code is on one page
+- Easy to AI generate and modify because all the code is on one page
 
 ### Example 
 A doctor wants to create an app that uses an Ollama model to extract patient data from written records. For privacy reasons this app would need to run locally. Also, it would need a UI to ingest the written records and a Python backend to pre-process the data and to run the model. 
