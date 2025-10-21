@@ -210,4 +210,22 @@ You should now have a working chat app running in your browser. Note the the res
 For so long the power to create software was held by highly skilled programmers. But that barrier is starting to dissolve. Now, by using this simple approach, anyone can build their own custom digital tools and run them offline.
 
 <br>
+
+## Update
+21-Oct-2025
+
+I built the following offline apps using this single-file technique:
+
+- myOfflineAi-VoiceAssistant<br>(An offline full-featured Ai voice assistant.)<br>
+  https://github.com/vbookshelf/myOfflineAi-VoiceAssistant<br>
+-  myOfflineAi-ChatConsole<br>(Desktop multimodal chat console that supports both text chat and voice chat.)<br>
+  https://github.com/vbookshelf/myOfflineAi-ChatConsole
+- myOfflineAi-PrivacyFirst<br>(Maximum security. No chat history is saved.)<br>
+  https://github.com/vbookshelf/myOfflineAi-PrivacyFirst<br>
+- myOfflineAi-ChatHistory<br>(Saves chats to a local file you control.)<br>
+  https://github.com/vbookshelf/myOfflineAi-ChatHistory<br>
+- Chat-Image-Marker<br>(A simple, offline tool for marking up images.)<br>
+  https://github.com/vbookshelf/Chat-Image-Marker<br>
+
+
 <br>
